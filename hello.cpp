@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-	cout<<"Hello, World!" <<endl;
+	cout<<"Hello, world!" <<endl;
 	cout<<"I am ready for CS16!" <<endl;
 
 
